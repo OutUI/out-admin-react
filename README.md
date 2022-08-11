@@ -42,4 +42,5 @@ admin/123456
 
 ## 项目后端
 
-配套的后端工程请移步 https://github.com/Outjs/out-admin-midway，启动后端可以体验完整功能
+配套的后端工程请移步 https://github.com/Outjs/out-admin-midway，
+启动后端可以体验完整功能
