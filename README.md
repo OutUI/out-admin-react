@@ -44,3 +44,6 @@ admin/123456
 
 配套的后端工程请移步 https://github.com/Outjs/out-admin-midway
 启动后端可以体验完整功能
+
+## 欢迎Star和PR
+如果项目对你有帮助，点颗星支持一下，后续还会推出更多功能
