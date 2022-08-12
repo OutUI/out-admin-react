@@ -23,7 +23,7 @@ $ npm run dev
 
 ```bash
 $ yarn
-$ npm run dev
+$ yarn run dev
 ```
 
 ## 登录账号
